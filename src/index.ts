@@ -1,4 +1,3 @@
-#!/usr/bin/env node
 import { ArbConverter, HierarchicalJsonConverter } from "./commands";
 // import chalk from "chalk";
 // import * as commander from "commander";
