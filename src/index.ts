@@ -1,4 +1,4 @@
-import { ArbConverter, HierarchicalJsonConverter } from "@mojob/arb-converter-cli/commands";
+import { ArbConverter, HierarchicalJsonConverter } from "./commands";
 // import chalk from "chalk";
 // import * as commander from "commander";
 
